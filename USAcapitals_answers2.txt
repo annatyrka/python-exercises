@@ -1,0 +1,50 @@
+1 Juneau
+2 Cheyenne
+3 Baton Rouge
+4 Helena
+5 Madison
+6 Montpelier
+7 Columbus
+8 Topeka
+9 Des Moines
+10 Providence
+11 Concord
+12 Augusta
+13 Atlanta
+14 Boise
+15 Olympia
+16 Little Rock
+17 Indianapolis
+18 Santa Fe
+19 Saint Paul
+20 Jackson
+21 Richmond
+22 Sacramento
+23 Oklahoma City
+24 Montgomery
+25 Salt Lake City
+26 Frankfort
+27 Dover
+28 Charleston
+29 Lansing
+30 Tallahassee
+31 Jefferson City
+32 Columbia
+33 Annapolis
+34 Carson City
+35 Nashville
+36 Honolulu
+37 Bismarck
+38 Raleigh
+39 Denver
+40 Lincoln
+41 Boston
+42 Albany
+43 Hartford
+44 Springfield
+45 Austin
+46 Phoenix
+47 Harrisburg
+48 Pierre
+49 Salem
+50 Trenton
