@@ -1,4 +1,0 @@
-from pathlib import Path
-p = Path('spam.txt')
-print(type(p))
-p.write_text('\ntest')
